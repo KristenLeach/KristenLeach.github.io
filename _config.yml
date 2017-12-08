@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Stay SaaSy 
 header-img: img/home-bg.png
 email: kristenleach24@gmail.com
 copyright_name: KristenLeach
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Just a lady learning to code in the heart of Silicon Valley
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KristenLeach
